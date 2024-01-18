@@ -13,7 +13,7 @@
 
 - Es multilingüe
 
-- Comprensión contextual
+- Entendimiento contextual
 
 - Funciona en varios IDEs y en CLI.
 
